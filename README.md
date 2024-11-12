@@ -151,7 +151,7 @@ body {
   <!-- Footer -->
    <footer class="bg-dark text-white text-center py-3">
     <span style="color: #d4d64b"> 
-    <p>Project Backroom - Copyright &copy; 2023</p>
+    <p>Project Backroom - Copyright &copy; 2023</p></span>
    </footer>
  </body>
 </html>
