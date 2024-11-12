@@ -1,15 +1,14 @@
-# PTK-Webmaking.github.io
 <html>
-<head>
+ <head>
   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Backroom Information( project 1 )</title>
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
+ </head>
+ <body>
 
-<!-- Header -->
+ <!-- Header -->
   <style>
    body {
 	background-image: url("Background1.jpg");
@@ -19,10 +18,10 @@
    <div style="width: 400px; margin-left: auto; margin-right: auto;">
    <span style="color: #c4a404;font-family: Verdana;font-size: 55px"><b> BACKROOM </b></span>
    </div>
-</header>
+ </header>
 
-<!-- Breadcrumb -->
-<div class="container mt-1">
+ <!-- Breadcrumb -->
+  <div class="container mt-1">
     <nav aria-label="breadcrumb">
    
         <ol class="breadcrumb">
@@ -36,14 +35,13 @@
             <li class="breadcrumb-item"><a href="#">Main</a></li>
             <li class="breadcrumb-item active" aria-current="page">List</li>
         </ol>
-      
     </nav>
-</div>
+  </div>
 
 
 
-<!-- Middle -->
-<div class="container">
+ <!-- Middle -->
+  <div class="container">
     <div class="row">
         <!-- Middle Text -->
         <div class="col-md-9">
@@ -64,12 +62,12 @@
             </div>
         </div>
     </div>
-</div>
+  </div>
 
-<!-- Footer -->
-<footer class="bg-dark text-white text-center py-3">
-<span style="color: #d4d64b"> 
+ <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-3">
+   <span style="color: #d4d64b"> 
     <p>Project Backroom - Copyright &copy; 2023</p>
-</footer>
-</body>
+  </footer>
+ </body>
 </html>
