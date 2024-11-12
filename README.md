@@ -132,9 +132,7 @@ body {
       <div class="form-group">
         <input type="text" class="form-control" placeholder="Tìm kiếm...">
       </div>
-	  <span style="color: red"
-      <button type="submit" class="btn btn-default">Tìm</button>
-	  </span>
+      <button type="submit" class="btn btn-default"><span style="color: red">Tìm</span></button>
      </form>
   </div>
 </nav>
