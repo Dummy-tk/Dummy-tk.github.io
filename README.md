@@ -147,11 +147,12 @@ body {
             <h1>Middle Text</h1>
             <p> Testing   </p>
         </div>
-
-  <!-- Footer -->
+	</div>
+   </div>
+<!-- Footer -->
    <footer class="bg-dark text-white text-center py-3">
     <span style="color: #d4d64b"> 
     <p>Project Backroom - Copyright &copy; 2023</p></span>
    </footer>
- </body>
+</body>
 </html>
