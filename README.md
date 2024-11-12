@@ -113,7 +113,7 @@ body {
 </style>
  </head>
  <body>
-  <!-- Header -->
+   <!-- Header -->
   <div class=header>
    <style>
     body {
@@ -152,6 +152,6 @@ body {
    <footer class="bg-dark text-white text-center py-3">
     <span style="color: #d4d64b"> 
     <p>Project Backroom - Copyright &copy; 2023</p>
-  </footer>
+   </footer>
  </body>
 </html>
